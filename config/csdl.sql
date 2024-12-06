@@ -1,4 +1,6 @@
-CREATE DATABASE tlunews;
+C
+--datsbase 
+REATE DATABASE tlunews;
 USE tlunews;
 
 CREATE TABLE users (
